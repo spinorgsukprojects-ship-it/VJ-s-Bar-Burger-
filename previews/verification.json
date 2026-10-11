@@ -1,0 +1,128 @@
+{
+  "pages": [
+    {
+      "file": "index.html",
+      "status": 200,
+      "headings": "fit",
+      "images": "loaded",
+      "fonts": "local",
+      "refresh": "passed"
+    },
+    {
+      "file": "menu.html",
+      "status": 200,
+      "headings": "fit",
+      "images": "loaded",
+      "fonts": "local",
+      "refresh": "passed"
+    },
+    {
+      "file": "specials.html",
+      "status": 200,
+      "headings": "fit",
+      "images": "loaded",
+      "fonts": "local",
+      "refresh": "passed"
+    },
+    {
+      "file": "private-events.html",
+      "status": 200,
+      "headings": "fit",
+      "images": "loaded",
+      "fonts": "local",
+      "refresh": "passed"
+    },
+    {
+      "file": "delivery-takeout.html",
+      "status": 200,
+      "headings": "fit",
+      "images": "loaded",
+      "fonts": "local",
+      "refresh": "passed"
+    },
+    {
+      "file": "find-us.html",
+      "status": 200,
+      "headings": "fit",
+      "images": "loaded",
+      "fonts": "local",
+      "refresh": "passed"
+    }
+  ],
+  "errors": [],
+  "screenshots": [
+    {
+      "file": "/Users/kartheekvaka/VJ's_USA_RE/previews/home-desktop-hd.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "file": "/Users/kartheekvaka/VJ's_USA_RE/previews/menu-desktop-hd.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "file": "/Users/kartheekvaka/VJ's_USA_RE/previews/specials-desktop-hd.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "file": "/Users/kartheekvaka/VJ's_USA_RE/previews/private-events-desktop-hd.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "file": "/Users/kartheekvaka/VJ's_USA_RE/previews/delivery-takeout-desktop-hd.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "file": "/Users/kartheekvaka/VJ's_USA_RE/previews/find-us-desktop-hd.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "file": "/Users/kartheekvaka/VJ's_USA_RE/previews/home-mobile-retina.png",
+      "width": 780,
+      "height": 1688
+    },
+    {
+      "file": "/Users/kartheekvaka/VJ's_USA_RE/previews/menu-mobile-retina.png",
+      "width": 780,
+      "height": 1688
+    },
+    {
+      "file": "/Users/kartheekvaka/VJ's_USA_RE/previews/specials-mobile-retina.png",
+      "width": 780,
+      "height": 1688
+    },
+    {
+      "file": "/Users/kartheekvaka/VJ's_USA_RE/previews/private-events-mobile-retina.png",
+      "width": 780,
+      "height": 1688
+    },
+    {
+      "file": "/Users/kartheekvaka/VJ's_USA_RE/previews/delivery-takeout-mobile-retina.png",
+      "width": 780,
+      "height": 1688
+    },
+    {
+      "file": "/Users/kartheekvaka/VJ's_USA_RE/previews/find-us-mobile-retina.png",
+      "width": 780,
+      "height": 1688
+    }
+  ],
+  "viewports": [
+    320,
+    360,
+    390,
+    768,
+    844,
+    1024,
+    1440,
+    1920,
+    2560
+  ],
+  "result": "passed",
+  "checks": "Six independent pages; no booking links; 57 dishes; 48 original dish photos; local fonts; menu search; details; empty-state reset; mobile navigation; direct refresh; legacy redirects; no horizontal or heading overflow."
+}

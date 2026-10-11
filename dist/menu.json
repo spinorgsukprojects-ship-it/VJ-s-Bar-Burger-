@@ -1,0 +1,440 @@
+[
+  {
+    "category": "Starters",
+    "name": "French Fries",
+    "price": "$4",
+    "description": "Crisp, golden fries.",
+    "image": "original-fries.jpg",
+    "thumbnail": "thumb-original-fries.webp"
+  },
+  {
+    "category": "Starters",
+    "name": "Baked Potato",
+    "price": "$5",
+    "description": "Warm with butter and sour cream; add bacon +$3.",
+    "image": "original-bakedpotato.jpg",
+    "thumbnail": "thumb-original-bakedpotato.webp"
+  },
+  {
+    "category": "Starters",
+    "name": "Onion Rings",
+    "price": "$10",
+    "description": "Golden, crispy onion rings.",
+    "image": "original-onionrings.jpg",
+    "thumbnail": "thumb-original-onionrings.webp"
+  },
+  {
+    "category": "Starters",
+    "name": "Fried Mac & Cheese Bites",
+    "price": "$11",
+    "description": "Crispy golden bites filled with creamy macaroni and casein cheese sauce.",
+    "image": "original-cheesebites.jpg",
+    "thumbnail": "thumb-original-cheesebites.webp"
+  },
+  {
+    "category": "Starters",
+    "name": "Chips & Housemade Guacamole",
+    "price": "$11",
+    "description": "House chips with fresh guacamole.",
+    "image": "original-chips.jpg",
+    "thumbnail": "thumb-original-chips.webp"
+  },
+  {
+    "category": "Starters",
+    "name": "Boneless Wings",
+    "price": "$15",
+    "description": "Eight wings; choose lemon pepper, BBQ, Buffalo, honey Sriracha or garlic butter.",
+    "image": "original-boneless.jpg",
+    "thumbnail": "thumb-original-boneless.webp"
+  },
+  {
+    "category": "Starters",
+    "name": "Bone-In Wings",
+    "price": "$16",
+    "description": "Eight wings; choose lemon pepper, BBQ, Buffalo, honey Sriracha or garlic butter.",
+    "image": "original-boneinwings.jpg",
+    "thumbnail": "thumb-original-boneinwings.webp"
+  },
+  {
+    "category": "Starters",
+    "name": "VJ's Signature Sampler",
+    "price": "$22",
+    "description": "A shareable assortment of house starters."
+  },
+  {
+    "category": "Salads",
+    "name": "Classic Caesar Salad",
+    "price": "$12",
+    "description": "Romaine, Parmesan and croutons in Caesar dressing.",
+    "image": "original-cessarsalad.jpg",
+    "thumbnail": "thumb-original-cessarsalad.webp"
+  },
+  {
+    "category": "Salads",
+    "name": "Mediterranean Power Salad",
+    "price": "$14",
+    "description": "Greens, feta, tomato, cucumber and red wine vinaigrette.",
+    "image": "original-powersalad.jpg",
+    "thumbnail": "thumb-original-powersalad.webp"
+  },
+  {
+    "category": "Salads",
+    "name": "Berry & Goat Cheese Salad",
+    "price": "$15",
+    "description": "Berries, walnuts, goat cheese and raspberry vinaigrette.",
+    "image": "original-berrysalad.jpg",
+    "thumbnail": "thumb-original-berrysalad.webp"
+  },
+  {
+    "category": "Burgers",
+    "name": "Classic Hamburger",
+    "price": "$13",
+    "description": "Juicy, handmade half-pound beef patty with lettuce, tomato, onion and pickles.",
+    "image": "original-burger2.jpg",
+    "thumbnail": "thumb-original-burger2.webp"
+  },
+  {
+    "category": "Burgers",
+    "name": "Western Chicken Burger",
+    "price": "$16",
+    "description": "Juicy chicken breast with mayo, BBQ, bacon, onion rings, smoked Gouda, lettuce and tomatoes.",
+    "image": "original-burger7.jpg",
+    "thumbnail": "thumb-original-burger7.webp"
+  },
+  {
+    "category": "Burgers",
+    "name": "Bacon Cheese Burger",
+    "price": "$16",
+    "description": "Juicy, handmade half-pound beef patty with bacon, smoked Gouda, onion rings and BBQ sauce.",
+    "image": "original-burger3.jpg",
+    "thumbnail": "thumb-original-burger3.webp"
+  },
+  {
+    "category": "Burgers",
+    "name": "Avocado Mushroom Burger",
+    "price": "$17",
+    "description": "Juicy, handmade half-pound beef patty with avocado, mushrooms, Swiss cheese and mayo.",
+    "image": "original-burger5.jpg",
+    "thumbnail": "thumb-original-burger5.webp"
+  },
+  {
+    "category": "Burgers",
+    "name": "Double Cheese Burger",
+    "price": "$17",
+    "description": "Half pound of juicy, handmade beef in two patties with American cheese and classic toppings.",
+    "image": "original-burger4.jpg",
+    "thumbnail": "thumb-original-burger4.webp"
+  },
+  {
+    "category": "Burgers",
+    "name": "Big Pappa Burger",
+    "price": "$18",
+    "description": "Juicy, handmade half-pound beef patty with bacon, avocado, pepper jack, fried egg and Thousand Island sauce.",
+    "image": "original-big-pappa-burger.jpg",
+    "thumbnail": "thumb-original-big-pappa-burger.webp"
+  },
+  {
+    "category": "Burgers",
+    "name": "Teriyaki Salmon Burger",
+    "price": "$18",
+    "description": "Seasoned salmon, lettuce, tomato, grilled pineapple finished with teriyaki glaze.",
+    "image": "original-salmon.jpg",
+    "thumbnail": "thumb-original-salmon.webp"
+  },
+  {
+    "category": "Sandwiches",
+    "name": "Chicken Club Sandwich",
+    "price": "$16",
+    "description": "Toasted sourdough, chicken, bacon, lettuce and tomato.",
+    "image": "original-chicken-club-sandwich.jpg",
+    "thumbnail": "thumb-original-chicken-club-sandwich.webp"
+  },
+  {
+    "category": "Sandwiches",
+    "name": "Fish Sandwich",
+    "price": "$16",
+    "description": "Toasted sourdough with fish, tartar sauce, lettuce and tomato.",
+    "image": "original-fish-sandwich-2.jpg",
+    "thumbnail": "thumb-original-fish-sandwich-2.webp"
+  },
+  {
+    "category": "Sandwiches",
+    "name": "Santa Fe Chicken Sandwich",
+    "price": "$17",
+    "description": "Sourdough, chipotle aioli, guacamole, peppers and jalape\u00f1o.",
+    "image": "original-santa-fe-chicken-sandwich.avif",
+    "thumbnail": "thumb-original-santa-fe-chicken-sandwich.webp"
+  },
+  {
+    "category": "Kebabs",
+    "name": "Chicken Kebab",
+    "price": "$18",
+    "description": "Choose BBQ, Nashville hot or pineapple teriyaki with vegetables.",
+    "image": "original-cgk2.jpg",
+    "thumbnail": "thumb-original-cgk2.webp"
+  },
+  {
+    "category": "Kebabs",
+    "name": "Garlic Parmesan Steak Kebab",
+    "price": "$20",
+    "description": "Marinated steak, garlic Parmesan and saut\u00e9ed vegetables.",
+    "image": "original-garlic-parmesan-steak-kebab.jpg",
+    "thumbnail": "thumb-original-garlic-parmesan-steak-kebab.webp"
+  },
+  {
+    "category": "Kebabs",
+    "name": "Steakhouse Beef Kebab",
+    "price": "$20",
+    "description": "Steak skewer with peppers, onions and mushrooms.",
+    "image": "original-charcola.jpg",
+    "thumbnail": "thumb-original-charcola.webp"
+  },
+  {
+    "category": "Kebabs",
+    "name": "Mediterranean Lamb Kebab",
+    "price": "$20",
+    "description": "Grilled lamb skewer with vegetables."
+  },
+  {
+    "category": "Kebabs",
+    "name": "Mixed Grill Kebab",
+    "price": "$30",
+    "description": "Assorted house kebabs; ask which skewers are included."
+  },
+  {
+    "category": "Smokehouse Signature Plates",
+    "name": "Tri-Tip & Chicken Combo",
+    "price": "$28",
+    "description": "Tri-tip and chicken with your choice of two sides.",
+    "image": "original-trichicken.jpg",
+    "thumbnail": "thumb-original-trichicken.webp"
+  },
+  {
+    "category": "Smokehouse Signature Plates",
+    "name": "Tri-Tip & Shrimp Combo",
+    "price": "$29",
+    "description": "Tri-tip and shrimp with your choice of two sides.",
+    "image": "original-tritip.jpg",
+    "thumbnail": "thumb-original-tritip.webp"
+  },
+  {
+    "category": "Grillhouse Entrees",
+    "name": "Fish & Chips",
+    "price": "$21",
+    "description": "Crispy battered cod with fries.",
+    "image": "original-fishchips.jpg",
+    "thumbnail": "thumb-original-fishchips.webp"
+  },
+  {
+    "category": "Grillhouse Entrees",
+    "name": "Chicken Alfredo",
+    "price": "$22",
+    "description": "Chicken over creamy Alfredo noodles with broccoli.",
+    "image": "original-chickenal.jpg",
+    "thumbnail": "thumb-original-chickenal.webp"
+  },
+  {
+    "category": "Grillhouse Entrees",
+    "name": "Atlantic / Blackened Salmon",
+    "price": "$25",
+    "description": "8 oz salmon, lemon butter, jasmine rice and a half salad.",
+    "image": "original-salmon.jpg",
+    "thumbnail": "thumb-original-salmon.webp"
+  },
+  {
+    "category": "Grillhouse Entrees",
+    "name": "Slow Roasted Tri-Tip",
+    "price": "$29",
+    "description": "Juicy 8 oz tri-tip cut, dry rubbed with a flavorful blend of spices and slow cooked at temperature.",
+    "image": "original-slowrib.jpg",
+    "thumbnail": "thumb-original-slowrib.webp"
+  },
+  {
+    "category": "Grillhouse Entrees",
+    "name": "Lamb Chop Dinner",
+    "price": "$36",
+    "description": "4 grilled lamb chops with rosemary seasoning, garlic mashed potatoes, honey-glazed roasted carrots and a blackberry-balsamic red wine reduction."
+  },
+  {
+    "category": "Flat Bread Pizzas",
+    "name": "BBQ Chicken Flat Bread",
+    "price": "$15",
+    "description": "Grilled chicken, BBQ sauce, red onion, mozzarella and cilantro.",
+    "image": "original-bbq-chicken-flatbread.jpg",
+    "thumbnail": "thumb-original-bbq-chicken-flatbread.webp"
+  },
+  {
+    "category": "Flat Bread Pizzas",
+    "name": "Pepperoni Flat Bread",
+    "price": "$16",
+    "description": "Pepperoni, mozzarella, house pizza sauce and Italian herbs.",
+    "image": "original-pepperoni.jpg",
+    "thumbnail": "thumb-original-pepperoni.webp"
+  },
+  {
+    "category": "Flat Bread Pizzas",
+    "name": "Steakhouse Flat Bread",
+    "price": "$17",
+    "description": "Steak, caramelized onions, peppers, mozzarella and blue cheese.",
+    "image": "original-steak.jpg",
+    "thumbnail": "thumb-original-steak.webp"
+  },
+  {
+    "category": "Kids Menu",
+    "name": "Mini Cheese Burger",
+    "price": "$10",
+    "description": "Kid-sized cheeseburger with fries and a drink.",
+    "image": "original-km1.jpg",
+    "thumbnail": "thumb-original-km1.webp"
+  },
+  {
+    "category": "Kids Menu",
+    "name": "Crispy Chicken Bites",
+    "price": "$10",
+    "description": "Bite-sized crispy chicken with fries and a drink.",
+    "image": "original-km2.jpg",
+    "thumbnail": "thumb-original-km2.webp"
+  },
+  {
+    "category": "Kids Menu",
+    "name": "Mini Cheese Pizza",
+    "price": "$10",
+    "description": "Small cheese pizza with fries and a drink.",
+    "image": "original-km3.jpg",
+    "thumbnail": "thumb-original-km3.webp"
+  },
+  {
+    "category": "Kids Menu",
+    "name": "Kids Boneless Wings",
+    "price": "$10",
+    "description": "Boneless wings with fries and a drink.",
+    "image": "original-km4.jpg",
+    "thumbnail": "thumb-original-km4.webp"
+  },
+  {
+    "category": "Kids Menu",
+    "name": "Mini Corn Dogs",
+    "price": "$10",
+    "description": "Mini corn dogs with fries and a drink.",
+    "image": "original-km5.jpg",
+    "thumbnail": "thumb-original-km5.webp"
+  },
+  {
+    "category": "Kids Menu",
+    "name": "Kids Alfredo",
+    "price": "$11",
+    "description": "Creamy Alfredo noodles for kids.",
+    "image": "original-km6.jpg",
+    "thumbnail": "thumb-original-km6.webp"
+  },
+  {
+    "category": "Milkshakes",
+    "name": "Vanilla Milkshake",
+    "price": "$6",
+    "description": "Classic creamy vanilla.",
+    "image": "original-vanilla-milkshake.jpg",
+    "thumbnail": "thumb-original-vanilla-milkshake.webp"
+  },
+  {
+    "category": "Milkshakes",
+    "name": "Mango Milkshake",
+    "price": "$6",
+    "description": "Smooth and creamy mango.",
+    "image": "original-mango-milkshake.avif",
+    "thumbnail": "thumb-original-mango-milkshake.webp"
+  },
+  {
+    "category": "Milkshakes",
+    "name": "Chocolate Milkshake",
+    "price": "$6",
+    "description": "Rich chocolate shake.",
+    "image": "original-chocolate-milkshake.avif",
+    "thumbnail": "thumb-original-chocolate-milkshake.webp"
+  },
+  {
+    "category": "Desserts",
+    "name": "Cheesecake",
+    "price": "$7",
+    "description": "Vanilla cheesecake with berry compote.",
+    "image": "original-d1.jpg",
+    "thumbnail": "thumb-original-d1.webp"
+  },
+  {
+    "category": "Desserts",
+    "name": "Chocolate Cake",
+    "price": "$7",
+    "description": "Chocolate cake with chocolate mousse.",
+    "image": "original-d2.jpg",
+    "thumbnail": "thumb-original-d2.webp"
+  },
+  {
+    "category": "Desserts",
+    "name": "Cookies & Cream Cookie Skillet",
+    "price": "$8",
+    "description": "Warm cookies and cream cookie with vanilla ice cream.",
+    "image": "original-d8.jpg",
+    "thumbnail": "thumb-original-d8.webp"
+  },
+  {
+    "category": "Desserts",
+    "name": "Chocolate Chunk Cookie Skillet",
+    "price": "$8",
+    "description": "Warm chocolate chunk cookie with vanilla ice cream.",
+    "image": "original-d7.jpg",
+    "thumbnail": "thumb-original-d7.webp"
+  },
+  {
+    "category": "Desserts",
+    "name": "Strawberry Shortcake Cookie Sundae",
+    "price": "$9",
+    "description": "Warm strawberry cookie with berry compote.",
+    "image": "original-strawberry-shortcake-cookie-skillet.jpg",
+    "thumbnail": "thumb-original-strawberry-shortcake-cookie-skillet.webp"
+  },
+  {
+    "category": "Desserts",
+    "name": "Triple Chocolate Cookie Sundae",
+    "price": "$9",
+    "description": "Warm triple chocolate cookie, ice cream and sauce.",
+    "image": "original-triple-chocolate-cookie-skillet.jpg",
+    "thumbnail": "thumb-original-triple-chocolate-cookie-skillet.webp"
+  },
+  {
+    "category": "Desserts",
+    "name": "Cookie Trio Skillet",
+    "price": "$16",
+    "description": "Three cookies of your choice with vanilla ice cream.",
+    "image": "original-cookie-skillet-trio.jpg",
+    "thumbnail": "thumb-original-cookie-skillet-trio.webp"
+  },
+  {
+    "category": "Brunch Menu",
+    "name": "Honey Sriracha Chicken Biscuit",
+    "price": "$16",
+    "description": "With 2 eggs"
+  },
+  {
+    "category": "Brunch Menu",
+    "name": "Biscuits & Gravy",
+    "price": "$16",
+    "description": "With 2 eggs"
+  },
+  {
+    "category": "Brunch Menu",
+    "name": "Chicken & Waffle",
+    "price": "$20",
+    "description": "With 2 eggs"
+  },
+  {
+    "category": "Brunch Menu",
+    "name": "Shrimp & Grits",
+    "price": "$21",
+    "description": ""
+  },
+  {
+    "category": "Brunch Menu",
+    "name": "Country Boy Waffle",
+    "price": "$25",
+    "description": ""
+  }
+]
